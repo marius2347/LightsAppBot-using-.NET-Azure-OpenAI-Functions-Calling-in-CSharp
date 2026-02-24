@@ -31,13 +31,19 @@ This project serves as a Proof of Concept (PoC) for building Agentic AI systems.
 Below are examples of natural language prompts handled by the bot, triggering the C# plugin methods:
 
 ### 1. Checking the status of the devices
-**Prompt:** *"Show me the lights list"* ![Lights List](lightslist.png)
+**Prompt:** *"Show me the lights list"* 
+
+![Lights List](lightslist.png)
 
 ### 2. Executing a bulk action
-**Prompt:** *"Turn off all lights"* ![Turn Off All Lights](turnfoalllights.png)
+**Prompt:** *"Turn off all lights"*
+
+![Turn Off All Lights](turnfoalllights.png)
 
 ### 3. Targeting a specific device
-**Prompt:** *"Turn on the chandelier"* ![Turn On Chandelier](turnonchandelier.png)
+**Prompt:** *"Turn on the chandelier"* 
+
+![Turn On Chandelier](turnonchandelier.png)
 
 ---
 
